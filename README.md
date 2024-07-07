@@ -14,7 +14,7 @@ NeoPixel互換LED搭載 HEXボード[(スイッチサイエンス販売ページ
   - HEXボードをｽﾀｯｸﾁｬﾝの頭部に載せるためのパーツ（土台とカバー）の3Dデータです。
 
 
-※ｽﾀｯｸﾁｬﾝは[ししかわさん](https://x.com/stack_chan)が製作したオープンソースのｽｰﾊﾟｰｶﾜｲｲロボットです。
+※ｽﾀｯｸﾁｬﾝは[ししかわさん](https://x.com/stack_chan)が開発、公開している、手乗りサイズのｽｰﾊﾟｰｶﾜｲｲコミュニケーションロボットです。
 - [Github](https://github.com/stack-chan/stack-chan)
 - [Discord](https://discord.com/channels/1095725099925110847/1097878659966173225)
 - [ScrapBox](https://scrapbox.io/stack-chan/)
